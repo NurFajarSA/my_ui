@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
-      length: 3,  // Jumlah tab
+      length: 3, // Jumlah tab
       child: Scaffold(
         appBar: AppBar(
           title: const Text('News Feed'),

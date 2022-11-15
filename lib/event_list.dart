@@ -31,7 +31,8 @@ class EventList extends StatelessWidget {
                     Text(dummyData[index].location),
                   ],
                 ),
-                subtitle: Text(dummyData[index].date),
+                subtitle: Text(
+                    "${dummyData[index].date} | ${dummyData[index].totalDay} Hari"),
               ),
             ),
           ),
