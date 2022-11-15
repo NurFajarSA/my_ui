@@ -1,16 +1,32 @@
-# my_ui
 
-A new Flutter project.
+# PBP *Challenges*
 
-## Getting Started
+Jawaban untuk *Challenge* yang diberikan pada mata kuliah Pemrograman Berbasis Platform (CSGE602022) - diselenggarakan oleh Fakultas Ilmu Komputer Universitas Indonesia, Semester Ganjil 2022/2023
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 👩🏻‍💻 Nama Anggota Kelompok 👨🏻‍💻
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Nama   | NPM             |
+| ------ | --------------- |
+| Syifa Afra K. M. | 2106707151 |
+| Alifia Nadiya Putri | 2106708002 |
+| Nur Fajar S. A. | 2106751114 |
+| Fitria Dwi Cahya | 2106751410 |
+| Gabriel Zebaoth K. P. | 2106751480 |
+| Riona Adani Ghaisani | 2106750995 |
+| Shafa Aleyda Tsabitah | 2106634534 |
+
+## Challenge #2 : Making Navigators
+
+![App Screenshot](https://github.com/NurFajarSA/my_ui/images/img1.png)
+
+
+Langkah - langkah pengerjaan :
+
+1.Membuat aplikasi flutter bernama `my_ui`
+
+2.Membuat class `HomePage` pada `home_page.dart` untuk dijadikan halaman utama. Class `HomePage`memiliki widget 
+
+3.(lanjut nanti, mau mppi dulu ya wkwk)
+
