@@ -19,7 +19,7 @@ Jawaban untuk *Challenge* yang diberikan pada mata kuliah Pemrograman Berbasis P
 
 ## Challenge #2 : Making Navigators
 
-![App Screenshot](https://github.com/NurFajarSA/my_ui/images/img1.png)
+![App Screenshot](https://github.com/NurFajarSA/my_ui/blob/master/images/img1.png)
 
 
 Langkah - langkah pengerjaan :
