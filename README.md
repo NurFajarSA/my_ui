@@ -18,7 +18,7 @@ Jawaban untuk *Challenge* yang diberikan pada mata kuliah Pemrograman Berbasis P
 | Shafa Aleyda Tsabitah | 2106634534 |
 
 ## Challenge #2 : Making Navigators
-
+### Langkah - langkah pengerjaan :
 1. Membuat tampilan SCELE seperti di bawah ini
 ![App Screenshot](https://github.com/NurFajarSA/my_ui/blob/master/images/img1.png)
 2. Membuat navigator pada Card "Lain-Lain" sehingga ketika diklik oleh user mengarahkan ke halaman di bawah ini :
