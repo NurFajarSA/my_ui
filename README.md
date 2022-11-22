@@ -20,13 +20,3 @@ Jawaban untuk *Challenge* yang diberikan pada mata kuliah Pemrograman Berbasis P
 ## Challenge #2 : Making Navigators
 
 ![App Screenshot](https://github.com/NurFajarSA/my_ui/blob/master/images/img1.png)
-
-
-Langkah - langkah pengerjaan :
-
-1.Membuat aplikasi flutter bernama `my_ui`
-
-2.Membuat class `HomePage` pada `home_page.dart` untuk dijadikan halaman utama. Class `HomePage`memiliki widget 
-
-3.(lanjut nanti, mau mppi dulu ya wkwk)
-
